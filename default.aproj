@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="雪星快速转屏" libEmbed="true" icon="lib\雪星转屏_130.ico" ui="console" output="雪星快速转屏.exe" CompanyName="Snowstar Lab." FileDescription="雪星快速转屏" LegalCopyright="Copyright (C) snomiao 2015-2021" ProductName="雪星快速转屏" InternalName="雪星快速转屏" FileVersion="2.2.0.06" ProductVersion="2.2.0.06" publishDir="/Publish/" dstrip="true">
+	<file name="main.aau" path="main.aau"/>
+	<folder name="资源文件" path="res" embed="true" local="false" ignored="false"/>
+</project>
