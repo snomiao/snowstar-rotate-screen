@@ -1,6 +1,6 @@
 # Snowstar Rotate Screen
 
-rotate my ALL screens then I can play computer games on bed at winter. ~\\(≧▽≦)/~
+Rotate my ALL screens then I can play computer games on bed at winter. ~\\(≧▽≦)/~
 
 ## Install
 
@@ -24,12 +24,15 @@ rotate my ALL screens then I can play computer games on bed at winter. ~\\(≧�
 
 ![usage-cmd-line](docs/usage-cmd-line.png)
 
-
 ## Author
 
 snomiao <snomiao@gmail.com>
 
 (c) 2024
+
+## Reference
+
+Program using aardio language https://www.aardio.com/
 
 ## License
 
